@@ -49,11 +49,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		print("you didnot enter the boy name")
 
 		
->>> main()
-Traceback (most recent call last):
-  File "<pyshell#49>", line 1, in <module>
-    main()
-  File "<pyshell#48>", line 5, in main
-    file_vari = open("GirlNames.txt","r")
-FileNotFoundError: [Errno 2] No such file or directory: 'GirlNames.txt'
 >>> 
